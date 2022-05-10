@@ -7,11 +7,11 @@
 This project idea is taken from Kaggle database posted by UCI MACHINE LEARNING https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 ## Contributors
-- [Mohammed bheser](https://github.com/orgs/EPHI-training/people/RedietMillion)
-- [Fitsum Bekele](https://github.com/orgs/EPHI-training/people/NahomAlemseged)
-- [Samson Lamma](https://github.com/orgs/EPHI-training/people/AnwarTaju) 
-- [Kare Debessa](https://github.com/abdilkerim-ship-it) 
-- [Teklehaymanot Belete](https://github.com/KemalSherefa) 
+- [Mohammed bheser](https://github.com/123mame)
+- [Fitsum Bekele](https://github.com/bekele72)
+- [Samson Lamma](https://github.com/SamsonLamma) 
+- [Kare Debessa](https://github.com/karedebessa) 
+- [Teklehaymanot Belete](https://github.com/Teklehaimanot) 
 
 
 # Project Description 
