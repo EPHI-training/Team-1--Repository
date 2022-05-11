@@ -23,10 +23,13 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 ### Content
 The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
-### Acknowledgements
+### Reference
 
 Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
 
+### Acknowledgements
+
+We thank NDMC/EPHI for creating this training opportunity and the efforts made by colleagues Biniyam and Maelaf for giving the training and sharing their knowledge, skill, and experience.
 ### Inspiration
 
 Can you build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes or not?
